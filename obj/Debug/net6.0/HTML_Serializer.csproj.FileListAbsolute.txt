@@ -1,0 +1,28 @@
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.exe
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.deps.json
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.runtimeconfig.json
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.pdb
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.AssemblyInfo.cs
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\refint\HTML_Serializer.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.pdb
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.genruntimeconfig.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\HTML_Serializer\obj\Debug\net6.0\ref\HTML_Serializer.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.exe
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.deps.json
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.runtimeconfig.json
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\bin\Debug\net6.0\HTML_Serializer.pdb
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.AssemblyInfo.cs
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\refint\HTML_Serializer.dll
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.pdb
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\HTML_Serializer.genruntimeconfig.cache
+C:\Users\user1\Documents\תיקיית תיכנות\שנה ב'\פרקטיקוד\הגשה 2\HTML_Serializer\obj\Debug\net6.0\ref\HTML_Serializer.dll
